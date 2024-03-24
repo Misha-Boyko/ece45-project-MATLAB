@@ -43,7 +43,9 @@ Initially, the state of the audio will be ‘original’, but once modifications
 If you want to return to the original state you can press the button to switch to the ‘original’ audio.
 To plot the original audio press the ‘Generate Audio Plot’ and to play it press ‘Play Unfiltered Sound’.
 10. Play Modified MP3: 
-Once the modified MP3 has been generated, you can play it to hear the changes you made.
+Once the modified MP3 has been generated, you can play it to hear the changes you made. Make sure that the state of the audio is on the modified setting and click “Play Unfiltered Sound”
+To play the original sound, make sure the state of the audio is on the original setting and click “Play Unfiltered Sound”
+To play the modified or original sound through a filter, make sure the desired filter is selected and click “Play Filtered Sound”
 Ensure that your device's audio is enabled and the volume is adjusted appropriately before playing the modified MP3.
 11. Save Modified MP3:
 If you're satisfied with the modifications and wish to keep the modified MP3 click ‘Save Modified Audio to File’ to save it on your device.
